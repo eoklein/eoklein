@@ -13,6 +13,7 @@ As tecnologias que eu gosto:
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu.kleiin/)
 [![Gmail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=Gmail&logoColor=e71c18)](mailto:gabriel.klein0146@gmail.com)
 [![Github](https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/eoklein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-klein-58b62a371)
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
