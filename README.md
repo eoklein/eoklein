@@ -1,7 +1,7 @@
 # Olá, bem vindo ao meu perfil!
 ## Faço parte do curso Aprender-e-Crescer 2025
 
-Me chamo Gabriel Klein e tenho 16 anos.
+Me chamo Gabriel Klein e tenho 17 anos.
 
 As tecnologias que eu gosto:
 - Backend, Python, C+, Java;
@@ -20,6 +20,3 @@ As tecnologias que eu gosto:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-
-![eoklein GitHub stats](https://github-readme-stats.vercel.app/api?username=eoklein&show_icons=true&theme=github_dark_dimmed)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eoklein&layout=compact&theme=github_dark_dimmed)
